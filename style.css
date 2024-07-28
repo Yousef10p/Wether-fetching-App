@@ -1,0 +1,25 @@
+#navO, #cityBtn{
+    height: 16%;
+}
+
+#navO{
+    margin-bottom: 5%;
+}
+
+#navIcon{
+    width: 25%;
+}
+
+#DateHolderText{
+    height: 15%;
+}
+
+
+#contentContainer{
+    margin-bottom: 6% !important;
+}
+
+#tbbe{
+    margin-left: auto;
+    margin-right: auto;
+}
